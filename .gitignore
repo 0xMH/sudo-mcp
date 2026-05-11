@@ -1,0 +1,6 @@
+/target
+/sudo-mcp
+/.venv
+/.claude
+*.exe
+.DS_Store
